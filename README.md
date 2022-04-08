@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ruben
 #### I'm quite fond of quiche to be frank
-![I'm quite fond of quiche to be frank]
+
 
 <img src="https://leadflowers.io/images/flowers.jpg" alt="vase of flowers" width="150" height="50"/>
 
