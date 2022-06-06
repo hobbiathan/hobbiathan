@@ -14,7 +14,7 @@
 🌶 Some projects I've contributed to and worked on are:
 
 * [Enigma](https://github.com/hobbiathan/ruby_enigma) - A simple CLI script to encrypt/decrypt string messages utilzing a simple encryption method based off of the Enigma Machine
-* [Tea Subscription](https://github.com/hobbiathan/TeaSubscription) - A simple API engine with near-CRUD functionality for a hypothetical tea service
+* [Tea Subscription](https://github.com/hobbiathan/TeaSubscription) - A simple API engine with CRUD functionality for a hypothetical tea service
 * [Sweater Weather](https://github.com/hobbiathan/sweater-weather) - A more complex API engine that can provide directions between two provided locations, food places of a specific sort within a respective location, images of a location, etc... (documentation pending)
 * [Spin Spot](https://github.com/stevenjames-turing/SPINSPOT) - A full-stack application that can retrieve articles based off a provided keyword and supply the user with AI generated summaries to provide a rough wholistic view of bias between various political-biased sources.
 
