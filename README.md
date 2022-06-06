@@ -23,8 +23,11 @@
 * Introductory Discrete Mathematics
 * Basic Graphic Design (chic!)
 
-🧀 Fun Fact about me:
+🧀 Fun Facts about me:
 
-I'm colorblind and save 20/15 vision.
+* I'm colorblind
+* I can solve a Rubik's Cube
+* I'm pretty sure I'm partially dyslexic
+* I like quiche 
 
 
