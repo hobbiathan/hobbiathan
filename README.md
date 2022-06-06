@@ -11,7 +11,7 @@
 * Git/GitHub workflow
 * PostgreSQL/Postico
 
-🌶 Some projects I've contributed and worked on are:
+🌶 Some projects I've contributed to and worked on are:
 
 * [Enigma](https://github.com/hobbiathan/ruby_enigma) - A simple CLI script to encrypt/decrypt string messages utilzing a simple encryption method based off of the Enigma Machine
 * [Tea Subscription](https://github.com/hobbiathan/TeaSubscription) - A simple API engine with CRUD functionality for a hypothetical tea service
