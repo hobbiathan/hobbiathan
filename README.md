@@ -1,22 +1,30 @@
-### HELLO‼️ I'm Ruben
-#### I'm quite fond of quiche, and software development
+# 👁‍🗨 Hello, I'm Ruben.
+
+### I'm a back-end web developer working with __Ruby__ and the __Rails framework__ with an interest in systems and their architecture, flows, and imposing infiniteness.
 
 
-<p>
-    <img src="https://leadflowers.io/images/flowers.png"/>
-</p>
+🌿 Notable skills include:
+* Comprehensive understanding of apps utilizng MVC architecture 
+* RSpec Model/Controller/Request testing
+* Heroku Deployment
+* The vi/vim/nvim editor
+* Git/GitHub workflow
+* PostgreSQL/Postico
 
-Skills: **Ruby** / **Rails** / **Rspec** / **Heroku** / **NVIM-VIM** / **Ubuntu**
+🌶 Some notable projects I've contributed and worked on are:
 
-- 🔭 I’m currently working on this page, and my website, https://leadflowers.io 
-- 🌱 I’m currently learning the Rails framework alongside the Hugo framework 
-- 📫 How to reach me: hobbiathan@gmail.com 
-- ⚡ Fun fact: In the absence of the sun, a flower will grow toward even the dimmest 20 watt light bulb. 
+* [Enigma](https://github.com/hobbiathan/ruby_enigma) - A simple CLI script to encrypt/decrypt string messages utilzing a simple encryption method based off of the Enigma Machine
+* [Tea Subscription](https://github.com/hobbiathan/TeaSubscription) - A simple API engine with CRUD functionality for a hypothetical tea service
+* [Sweater Weather](https://github.com/hobbiathan/sweater-weather) - An API engine that can provide directions between two provided locations, food places of a specific sort within a respective location, images of a location, etc... (documentation pending)
+* [Spin Spot](https://github.com/stevenjames-turing/SPINSPOT) - A full-stack application that can retrieve articles based off a provided keyword and supply the user with AI generated summaries to provide a rough wholistic view of bias between various political-biased sources.
 
+👾  Currently, I've invested myself into a few new things to learn:
+* The Go Language
+* Introductory Discrete Mathematics
+* Basic Graphic Design (chic!)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hobbiathan)  
+🧀 Fun Fact about me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobbiathan)](https://github.com/anuraghazra/github-readme-stats)
+I'm colorblind and save 20/15 vision.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hobbiathan&show_icons=true)  
 
