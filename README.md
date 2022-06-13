@@ -13,6 +13,7 @@
 
 🌶 Some projects I've contributed to and worked on are:
 
+* [Voidflowers](https://github.com/hobbiathan/voidflowers) - A Rails application meant to act as a repository for personal projects implementing ActiveStorage, BCrypt, DigitalOcean Spaces, and user sessions
 * [Enigma](https://github.com/hobbiathan/ruby_enigma) - A simple CLI script to encrypt/decrypt string messages utilzing a simple encryption method based off of the Enigma Machine
 * [Tea Subscription](https://github.com/hobbiathan/TeaSubscription) - A simple API engine with CRUD functionality for a hypothetical tea service
 * [Sweater Weather](https://github.com/hobbiathan/sweater-weather) - A more complex API engine that can provide directions between two provided locations, food places of a specific sort within a respective location, images of a location, etc... (documentation pending)
