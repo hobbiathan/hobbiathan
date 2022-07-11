@@ -1,4 +1,4 @@
-# 👁‍🗨 Hello, I'm Ruben.
+# I'm Ruben.
 
 ### I'm a back-end web developer working with __Ruby__ and the __Rails framework__ with an interest in systems and their architecture, flows, and imposing infiniteness.
 
