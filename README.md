@@ -11,11 +11,6 @@
 
 ---
 
-👾  Currently, I've invested myself into a few new things to learn:
-* The Go Language
-* Introductory Discrete Mathematics
-* Basic Graphic Design (chic!)
-
 🧀 Fun Facts about me:
 
 * I'm colorblind
