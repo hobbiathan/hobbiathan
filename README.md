@@ -19,4 +19,3 @@
 * I like quiche 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hobbiathan)](https://github.com/anuraghazra/github-readme-stats)
